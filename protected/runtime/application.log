@@ -1,0 +1,148 @@
+2014/10/14 01:38:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "gii".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('gii')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('gii')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/gii')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php?r=site/gii
+---
+2014/10/14 01:38:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "gii".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('gii')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('gii')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/gii')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php?r=site/gii
+---
+2014/10/14 01:39:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "giic".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('giic')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('giic')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/giic')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php?r=site/giic
+---
+2014/10/14 01:39:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "gii".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('gii')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('gii')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/gii')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php?r=site/gii
+---
+2014/10/14 01:39:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "gii".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('gii')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('gii')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/gii')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php?r=site/gii
+---
+2014/10/14 01:41:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "gii".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('gii')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('gii')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/gii')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php?r=site/gii
+---
+2014/10/14 01:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in C:\xampp\htdocs\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#1 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/isw2014/index.php?r=gii
+---
+2014/10/14 01:52:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "gii".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('gii')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('gii')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/gii')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php/site/gii
+---
+2014/10/14 01:52:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "giic".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('giic')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('giic')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/giic')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php/site/giic
+---
+2014/10/14 02:12:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "gii".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('gii')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('gii')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/gii')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php/site/gii
+---
+2014/10/14 02:12:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "gii".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('gii')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('gii')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/gii')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php/site/gii
+---
+2014/10/14 02:12:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "gii".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('gii')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('gii')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/gii')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php/site/gii
+---
+2014/10/14 02:12:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "gii".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('gii')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('gii')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/gii')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php/site/gii
+---
+2014/10/14 02:12:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "gii".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('gii')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('gii')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/gii')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php/site/gii
+---
+2014/10/14 02:16:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "gii".' in C:\xampp\htdocs\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\Yii\framework\web\CController.php(270): CController->missingAction('gii')
+#1 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(282): CController->run('gii')
+#2 C:\xampp\htdocs\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/gii')
+#3 C:\xampp\htdocs\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Yii\isw2014\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/isw2014/index.php/site/gii
+---
